@@ -1,1 +1,2 @@
-This is the new file.
+This is the new file. 
+Lets add another line to this file.
